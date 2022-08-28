@@ -37,9 +37,9 @@ def downloadmusic():
                     AudioClip.close
         
                     os.remove(mp4_file)
-#n tem que mudar nada aq em cima
 
-def MoverArquivos(): # tem q fazer isso funcionar
+
+def MoverArquivos(): 
     
     De = r'c:\Users\Cliente\Documents\vs code'
     Para = r'c:\Users\Cliente\Music'
